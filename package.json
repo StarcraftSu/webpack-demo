@@ -114,7 +114,7 @@
     "supports-color": "^2.0.0",
     "to-fast-properties": "^1.0.3",
     "trim-right": "^1.0.1",
-    "highlight.js": "^9.18.1"
+    "highlight.js": "^10.1.2"
   },
   "devDependencies": {},
   "scripts": {
